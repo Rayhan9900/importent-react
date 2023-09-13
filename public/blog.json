@@ -1,0 +1,72 @@
+[
+    {
+        "id": 101,
+        "cover": "https://i.ibb.co/Y82rrK6/1.jpg",
+        "title": "The Secret Garden",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2023-09-15",
+        "reading_data": 20,
+        "hashtag": [
+            "nature",
+            "gardening",
+            "adventure"
+        ]
+    },
+    {
+        "id": 102,
+        "cover": "https://i.ibb.co/phVRW9s/2.png",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2023-09-14",
+        "reading_data": 15,
+        "hashtag": [
+            "history",
+            "time travel",
+            "exploration"
+        ]
+    },
+    {
+        "id": 103,
+        "cover": "https://i.ibb.co/bXhXc88/3.png",
+        "title": "Exploring How to get your first job as a self-taught programmer",
+        "author": "Emily Brown",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2023-09-13",
+        "reading_data": 25,
+        "hashtag": [
+            "space",
+            "astronomy",
+            "science"
+        ]
+    },
+    {
+        "id": 104,
+        "cover": "https://i.ibb.co/SmTL2QG/4.jpg",
+        "title": "The Art of Cooking",
+        "author": "David Wilson",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2023-09-12",
+        "reading_data": 12,
+        "hashtag": [
+            "cooking",
+            "recipes",
+            "culinary"
+        ]
+    },
+    {
+        "id": 105,
+        "cover": "https://i.ibb.co/7jsdYr7/5342918.jpg",
+        "title": "How to get your first job as a self-taught Ddigital Marketing Agency",
+        "author": "Sophia Turner",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2023-09-11",
+        "reading_data": 30,
+        "hashtag": [
+            "travel",
+            "nature",
+            "hiking"
+        ]
+    }
+]
